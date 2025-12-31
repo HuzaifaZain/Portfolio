@@ -3,9 +3,13 @@
 # Data Dictionary
 <img width="688" height="365" alt="Data dictionary 1" src="https://github.com/user-attachments/assets/59245028-eb14-405b-96dc-6470785e797b" />
 
+# ER Diagram:
+<img width="898" height="628" alt="image" src="https://github.com/user-attachments/assets/7930da0b-c22d-4cfa-baf7-776cb3e1c763" />
+
+
 # Business Quaries
 ## 🔹 SECTION 1: Core Lookup & Data Integration Problems (1–10)
-### 1. Order Revenue Calculation
+**1. Order Revenue Calculation**
 
 For each row in order_details, calculate the total revenue by fetching the pizza price from the pizzas table using pizza_id and multiplying it by quantity.
 
