@@ -79,28 +79,3 @@ Calculate average revenue per order for each day.
 Find the average number of pizzas ordered per order_id.
 👉 Indicates bulk vs single-item orders.
 
-16. Revenue per Order
-
-Calculate total revenue for each order_id and analyze distribution.
-👉 Useful for high-value order identification.
-
-🍽 Menu & Product Strategy
-17. Category Performance by Size
-
-Analyze revenue by pizza category and size together.
-👉 Helps identify which size performs best in each category.
-
-18. Ingredient-Based Demand Analysis
-
-Count how many times pizzas containing specific ingredients (e.g., Chicken, Mushrooms) were ordered.
-👉 Supports ingredient procurement planning.
-
-19. Price Band Analysis
-
-Group pizzas into price ranges and calculate total sales for each band.
-👉 Helps evaluate pricing strategy effectiveness.
-
-20. Revenue Share % by Category
-
-Calculate each category’s percentage contribution to total revenue.
-👉 Executive-level KPI for management dashboards.
